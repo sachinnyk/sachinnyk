@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinnyk
 - 👀 I’m interested in about Web development.
 - 🌱 I’m currently learning React
-- 📫 How to reach me sachinnyk@gmail.com
+- 📫 Reach me sachinnyk@gmail.com
 
 <!---
 sachinnyk/sachinnyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
