@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sachinnyk
+- 💻 Currently working TCS as IT Analyst.
 - 👀 I’m interested in about Web development.
 - 🌱 I’m currently learning React
 - 📫 Reach me sachinnyk@gmail.com
