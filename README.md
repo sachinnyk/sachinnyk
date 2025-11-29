@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachinnyk
-- 💻 Currently working in Optum as IT Software Engineering Lead.
+- 💻 Currently working in Optum as Software Engineering Lead.
 - 👀 I’m interested in about Web development.
 - 🌱 I’m currently learning React
 - 📫 Reach me sachinnyk@gmail.com
